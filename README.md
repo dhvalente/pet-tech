@@ -2,12 +2,6 @@
 
 Este projeto demonstra o padrão builder, dentre outros assuntos abordados na pós.
 
-## Features
-* Cadastro de usuário e login com autenticação JWT
-* Criptografia de senha usando BCrypt
-* Autorização baseada em função com Spring Security
-* Tratamento negado de acesso personalizado
-
 ## Tecnologias
 * Spring Boot 3.0
 * Maven
