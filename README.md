@@ -1,6 +1,6 @@
 # Projeto da Pós Tech FIAP - Arquitetura e Desenvolvimento Java
 
-Este projeto demonstra a padrõe builder, dentre outros assuntos abordados na pós.
+Este projeto demonstra o padrão builder, dentre outros assuntos abordados na pós.
 
 ## Features
 * Cadastro de usuário e login com autenticação JWT
